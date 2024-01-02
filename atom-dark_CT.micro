@@ -1,4 +1,6 @@
-color-link default "#75a8d5,#1D1F21"
+##  saved background color:  #f7f7c9 
+
+color-link default " #e6fae9 ,"
 color-link comment "#7C7C7C,#1D1F21"
 color-link identifier "#DBCE44,#1D1F21"
 color-link constant "#FF73FD,#1D1F21"
@@ -22,7 +24,7 @@ color-link diff-modified "#FFAF00"
 color-link diff-deleted "#D70000"
 color-link gutter-error "#FF4444,#1D1F21"
 color-link gutter-warning "#EEEE77,#1D1F21"
-color-link cursor-line "#2D2F31"
+color-link cursor-line ""
 color-link color-column "#2D2F31"
 #color-link symbol.brackets "#96CBFE,#1D1F21"
 #No extended types (bool in C, etc.)
